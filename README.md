@@ -2,13 +2,32 @@
 ## Smart Home Automation System
 A modular and interactive application for managing various smart home devices, including lights, fans, thermostats, and cameras.
 
-### Commands to Start the Application
-Run the following command in your terminal to start the project:
+### Downloading and Executing the Project
+Download the project from GitHub or clone it using the following command.
 
 ```
-python project\ 12.py
+git clone https://github.com/tatwik-sai/QuickTicket.git
 ```
-This will initialize the system and open the main interface.
+
+- Navigate into the QuickTicket directory before running the program.
+- Ensure to have the make utility installed on your system.
+
+```
+sudo apt install make
+```
+
+- Run the following command to create an executable (.out) file.
+
+```
+make rerun
+```
+
+- Make sure the terminal is in full screen mode to avoid any display issues.
+- Now, run the executable file using the following command.
+
+```
+./QuickTicket.out
+```
 
 ### Supported Operating Systems
 - Linux
