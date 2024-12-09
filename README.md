@@ -124,19 +124,7 @@ The system uses individual Python files for device-specific implementations:
 
 ---
 
-![Page2](https://i.ibb.co/4tS22JQ/Whats-App-Image-2024-12-09-at-10-29-37-AM.jpg)
-
----
-
 ![Page3](https://i.ibb.co/VB9NnHW/Whats-App-Image-2024-12-09-at-10-29-38-AM-1.jpg)
-
----
-
-![Page4](https://i.ibb.co/y4YdnL5/Whats-App-Image-2024-12-09-at-10-29-38-AM-2.jpg)
-
----
-
-![Page5](https://i.ibb.co/QDBy4H8/Whats-App-Image-2024-12-09-at-10-29-38-AM.jpg)
 
 ---
 
@@ -145,9 +133,5 @@ The system uses individual Python files for device-specific implementations:
 ---
 
 ![Page7](https://i.ibb.co/bmtJ9fT/Whats-App-Image-2024-12-09-at-10-29-39-AM-2.jpg)
-
----
-
-![Page8](https://i.ibb.co/zPj6Tk6/Whats-App-Image-2024-12-09-at-10-29-39-AM.jpg)
 
 ---
