@@ -9,24 +9,19 @@ Download the project from GitHub or clone it using the following command.
 git clone https://github.com/Brijesh-Coder-IIITB/Python-Project.git
 ```
 
-- Navigate into the QuickTicket directory before running the program.
-- Ensure to have the make utility installed on your system.
+- Navigate into the Python-Project-main directory before running the program.
+- Python-Project-main.zip contains the project files, Extract them.
+- Open the terminal and navigate to the project directory.
+- Run the following command to execute the project.
 
 ```
-sudo apt install make
+python "project 12.py"
 ```
 
-- Run the following command to create an executable (.out) file.
+- If you are on macOS or Linux, use the following command.
 
 ```
-make rerun
-```
-
-- Make sure the terminal is in full screen mode to avoid any display issues.
-- Now, run the executable file using the following command.
-
-```
-./QuickTicket.out
+python3 "project 12.py"
 ```
 
 ### Supported Operating Systems
@@ -120,3 +115,37 @@ The system uses individual Python files for device-specific implementations:
   - Created the data handling and reporting features.
 How to Contribute
 Fork the repository, make your changes, and submit a pull request. Ensure you follow the coding standards outlined in CONTRIBUTING.md
+
+---
+
+![Page1](https://i.ibb.co/7gQ207S/Whats-App-Image-2024-12-09-at-10-29-37-AM-1.jpg)
+
+---
+
+![Page2](https://i.ibb.co/4tS22JQ/Whats-App-Image-2024-12-09-at-10-29-37-AM.jpg)
+
+---
+
+![Page3](https://i.ibb.co/VB9NnHW/Whats-App-Image-2024-12-09-at-10-29-38-AM-1.jpg)
+
+---
+
+![Page4](https://i.ibb.co/y4YdnL5/Whats-App-Image-2024-12-09-at-10-29-38-AM-2.jpg)
+
+---
+
+![Page5](https://i.ibb.co/QDBy4H8/Whats-App-Image-2024-12-09-at-10-29-38-AM.jpg)
+
+---
+
+![Page6](https://i.ibb.co/KbV2xst/Whats-App-Image-2024-12-09-at-10-29-39-AM-1.jpg)
+
+---
+
+![Page7](https://i.ibb.co/bmtJ9fT/Whats-App-Image-2024-12-09-at-10-29-39-AM-2.jpg)
+
+---
+
+![Page8](https://i.ibb.co/zPj6Tk6/Whats-App-Image-2024-12-09-at-10-29-39-AM.jpg)
+
+---
