@@ -1,3 +1,4 @@
+
 # Python-Project
 ## Smart Home Automation System
 A modular and interactive application for managing various smart home devices, including lights, fans, thermostats, and cameras.
@@ -105,19 +106,19 @@ The system uses individual Python files for device-specific implementations:
 - Device states are stored in the data directory in JSON format.
 - User authentication data is securely stored and managed.
 ## Work Done by Each Team Member
-- Team Member 1:
-  - Implemented the Device class and core modules like DEVICE.py.
-- Team Member 2:
-  - Developed device-specific modules (LIGHT.py, FAN.py, THERMOSTAT.py, and CAMERA.py).
-- Team Member 3:
-  - Designed the project 12.py script to integrate all modules and manage the user interface.
-- Team Member 4:
-  - Created the data handling and reporting features.
-How to Contribute
-Fork the repository, make your changes, and submit a pull request. Ensure you follow the coding standards outlined in CONTRIBUTING.md
-
 ---
 
+#### Team Members
+
+| Name   | Rollno       | Contribution  |
+|------------|----------------|---------|
+| M.Brijesh | BT2024263 | Device controlling of fan,Home page |
+| N.Brinda Viswanath | BT2024095 | Device controlling of light,thermostat |
+| R.Venkata Pranav | BT2024221| UI,Register Screen |
+| Ch.Mithun Kumar | BT2024089 | UI,Login page,Main Screen |
+| Namish Singla | IMT2024089 | Device controlling of secuirty camera,Generate Report |
+
+---
 ![Page1](https://i.ibb.co/7gQ207S/Whats-App-Image-2024-12-09-at-10-29-37-AM-1.jpg)
 
 ---
