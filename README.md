@@ -6,7 +6,7 @@ A modular and interactive application for managing various smart home devices, i
 Download the project from GitHub or clone it using the following command.
 
 ```
-git clone https://github.com/tatwik-sai/QuickTicket.git
+git clone https://github.com/Brijesh-Coder-IIITB/Python-Project.git
 ```
 
 - Navigate into the QuickTicket directory before running the program.
