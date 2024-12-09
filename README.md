@@ -98,6 +98,7 @@ The system uses individual Python files for device-specific implementations:
 **4.** THERMOSTAT.py:
 
   - Extends Device to include temperature and mode settings.
+    
 **5.** CAMERA.py:
 
   - Extends Device with functionality for recording and resolution management.
